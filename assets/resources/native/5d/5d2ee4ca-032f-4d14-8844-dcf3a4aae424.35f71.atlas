@@ -1,0 +1,62 @@
+
+300052.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b
+  rotate: false
+  xy: 916, 336
+  size: 84, 112
+  orig: 87, 115
+  offset: 2, 1
+  index: -1
+b2
+  rotate: false
+  xy: 478, 22
+  size: 224, 140
+  orig: 228, 143
+  offset: 2, 1
+  index: -1
+b3
+  rotate: false
+  xy: 742, 273
+  size: 172, 175
+  orig: 174, 179
+  offset: 1, 2
+  index: -1
+bg
+  rotate: false
+  xy: 242, 14
+  size: 234, 434
+  orig: 236, 436
+  offset: 1, 1
+  index: -1
+bg2
+  rotate: false
+  xy: 2, 2
+  size: 238, 446
+  orig: 240, 448
+  offset: 1, 1
+  index: -1
+m
+  rotate: false
+  xy: 655, 251
+  size: 85, 197
+  orig: 85, 197
+  offset: 0, 0
+  index: -1
+n
+  rotate: false
+  xy: 478, 164
+  size: 175, 284
+  orig: 175, 284
+  offset: 0, 0
+  index: -1
+worldcpunoght
+  rotate: false
+  xy: 704, 135
+  size: 247, 114
+  orig: 250, 128
+  offset: 1, 10
+  index: -1

@@ -1,0 +1,62 @@
+
+420078.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+444
+  rotate: false
+  xy: 238, 259
+  size: 101, 315
+  orig: 101, 315
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 2, 140
+  size: 234, 434
+  orig: 236, 436
+  offset: 1, 1
+  index: -1
+bg2
+  rotate: false
+  xy: 2, 576
+  size: 238, 446
+  orig: 240, 448
+  offset: 1, 1
+  index: -1
+j
+  rotate: false
+  xy: 238, 86
+  size: 236, 171
+  orig: 236, 250
+  offset: 0, 0
+  index: -1
+j1
+  rotate: false
+  xy: 341, 404
+  size: 126, 62
+  orig: 129, 65
+  offset: 2, 2
+  index: -1
+k
+  rotate: false
+  xy: 341, 468
+  size: 110, 111
+  orig: 236, 250
+  offset: 0, 116
+  index: -1
+kingofatlantis
+  rotate: false
+  xy: 2, 2
+  size: 207, 136
+  orig: 209, 138
+  offset: 1, 1
+  index: -1
+m
+  rotate: false
+  xy: 242, 581
+  size: 224, 441
+  orig: 250, 448
+  offset: 0, 7
+  index: -1

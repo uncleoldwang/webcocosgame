@@ -1,0 +1,62 @@
+
+300041.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a1
+  rotate: false
+  xy: 478, 183
+  size: 238, 319
+  orig: 240, 322
+  offset: 1, 1
+  index: -1
+a2
+  rotate: false
+  xy: 716, 11
+  size: 105, 170
+  orig: 107, 172
+  offset: 1, 1
+  index: -1
+a3
+  rotate: false
+  xy: 512, 12
+  size: 96, 67
+  orig: 98, 69
+  offset: 1, 1
+  index: -1
+b1
+  rotate: false
+  xy: 478, 2
+  size: 32, 77
+  orig: 32, 77
+  offset: 0, 0
+  index: -1
+b2
+  rotate: false
+  xy: 718, 302
+  size: 93, 200
+  orig: 95, 202
+  offset: 1, 1
+  index: -1
+bg
+  rotate: false
+  xy: 242, 68
+  size: 234, 434
+  orig: 236, 436
+  offset: 1, 1
+  index: -1
+bg2
+  rotate: false
+  xy: 2, 56
+  size: 238, 446
+  orig: 240, 448
+  offset: 1, 1
+  index: -1
+motherofdragons
+  rotate: false
+  xy: 478, 81
+  size: 236, 100
+  orig: 238, 102
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,90 @@
+
+330002.png
+size: 668,275
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+box
+  rotate: false
+  xy: 2, 57
+  size: 251, 216
+  orig: 253, 218
+  offset: 1, 1
+  index: -1
+g-1
+  rotate: true
+  xy: 265, 2
+  size: 116, 112
+  orig: 119, 114
+  offset: 1, 1
+  index: -1
+g-2
+  rotate: true
+  xy: 549, 16
+  size: 78, 81
+  orig: 81, 83
+  offset: 2, 1
+  index: -1
+g-3
+  rotate: true
+  xy: 477, 23
+  size: 43, 47
+  orig: 46, 49
+  offset: 1, 1
+  index: -1
+h-1
+  rotate: false
+  xy: 544, 177
+  size: 97, 96
+  orig: 135, 131
+  offset: 11, 8
+  index: -1
+l
+  rotate: false
+  xy: 549, 96
+  size: 85, 79
+  orig: 86, 79
+  offset: 1, 0
+  index: -1
+r
+  rotate: false
+  xy: 477, 68
+  size: 70, 93
+  orig: 70, 103
+  offset: 0, 0
+  index: -1
+shen
+  rotate: false
+  xy: 379, 22
+  size: 96, 96
+  orig: 182, 263
+  offset: 72, 38
+  index: -1
+t-b
+  rotate: true
+  xy: 643, 219
+  size: 54, 23
+  orig: 54, 23
+  offset: 0, 0
+  index: -1
+text
+  rotate: false
+  xy: 2, 3
+  size: 261, 52
+  orig: 263, 54
+  offset: 1, 1
+  index: -1
+tou
+  rotate: false
+  xy: 255, 120
+  size: 174, 153
+  orig: 179, 162
+  offset: 2, 8
+  index: -1
+yanhua
+  rotate: false
+  xy: 431, 163
+  size: 111, 110
+  orig: 129, 120
+  offset: 5, 4
+  index: -1

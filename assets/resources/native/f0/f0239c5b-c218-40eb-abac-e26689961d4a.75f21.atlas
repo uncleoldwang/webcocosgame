@@ -1,0 +1,90 @@
+
+510006.png
+size: 844,240
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+box
+  rotate: false
+  xy: 258, 22
+  size: 251, 216
+  orig: 251, 216
+  offset: 0, 0
+  index: -1
+g-2
+  rotate: true
+  xy: 595, 12
+  size: 35, 31
+  orig: 36, 32
+  offset: 0, 0
+  index: -1
+g-3
+  rotate: true
+  xy: 628, 14
+  size: 33, 30
+  orig: 33, 30
+  offset: 0, 0
+  index: -1
+g-4
+  rotate: false
+  xy: 554, 7
+  size: 39, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+guang-0
+  rotate: false
+  xy: 812, 140
+  size: 25, 25
+  orig: 29, 28
+  offset: 2, 2
+  index: -1
+text
+  rotate: false
+  xy: 2, 20
+  size: 254, 218
+  orig: 257, 220
+  offset: 1, 2
+  index: -1
+wu-1
+  rotate: false
+  xy: 511, 49
+  size: 146, 189
+  orig: 146, 189
+  offset: 0, 0
+  index: -1
+wu-2
+  rotate: true
+  xy: 660, 101
+  size: 137, 150
+  orig: 137, 153
+  offset: 0, 0
+  index: -1
+wu-5
+  rotate: true
+  xy: 660, 2
+  size: 97, 95
+  orig: 99, 103
+  offset: 1, 4
+  index: -1
+wu-6
+  rotate: false
+  xy: 757, 2
+  size: 83, 97
+  orig: 86, 102
+  offset: 1, 3
+  index: -1
+wu-b
+  rotate: true
+  xy: 812, 167
+  size: 71, 30
+  orig: 71, 30
+  offset: 0, 0
+  index: -1
+xiangzi-2
+  rotate: false
+  xy: 511, 5
+  size: 41, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1

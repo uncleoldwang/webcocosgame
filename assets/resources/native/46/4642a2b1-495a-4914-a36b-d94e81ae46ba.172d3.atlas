@@ -1,0 +1,146 @@
+
+600005.png
+size: 1218,225
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Star01
+  rotate: false
+  xy: 1014, 28
+  size: 54, 46
+  orig: 61, 55
+  offset: 4, 4
+  index: -1
+body
+  rotate: false
+  xy: 1089, 70
+  size: 127, 153
+  orig: 127, 158
+  offset: 0, 5
+  index: -1
+box
+  rotate: false
+  xy: 2, 7
+  size: 251, 216
+  orig: 253, 218
+  offset: 1, 1
+  index: -1
+g-1
+  rotate: false
+  xy: 1070, 9
+  size: 41, 59
+  orig: 45, 67
+  offset: 2, 5
+  index: -1
+g-2
+  rotate: false
+  xy: 1014, 76
+  size: 67, 45
+  orig: 70, 47
+  offset: 2, 1
+  index: -1
+g-3
+  rotate: false
+  xy: 1113, 24
+  size: 42, 44
+  orig: 44, 47
+  offset: 1, 2
+  index: -1
+left
+  rotate: true
+  xy: 255, 2
+  size: 114, 172
+  orig: 115, 175
+  offset: 1, 3
+  index: -1
+lizi_00
+  rotate: true
+  xy: 746, 21
+  size: 100, 89
+  orig: 100, 100
+  offset: 0, 6
+  index: -1
+lizi_02
+  rotate: true
+  xy: 824, 123
+  size: 100, 89
+  orig: 100, 100
+  offset: 0, 7
+  index: -1
+lizi_05
+  rotate: true
+  xy: 915, 123
+  size: 100, 86
+  orig: 100, 100
+  offset: 0, 4
+  index: -1
+lizi_07
+  rotate: true
+  xy: 837, 21
+  size: 100, 87
+  orig: 100, 100
+  offset: 0, 4
+  index: -1
+lizi_09
+  rotate: true
+  xy: 654, 21
+  size: 100, 90
+  orig: 100, 100
+  offset: 0, 2
+  index: -1
+lizi_11
+  rotate: true
+  xy: 559, 21
+  size: 100, 93
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+lizi_13
+  rotate: true
+  xy: 926, 21
+  size: 100, 86
+  orig: 100, 100
+  offset: 0, 3
+  index: -1
+lizi_15
+  rotate: true
+  xy: 732, 123
+  size: 100, 90
+  orig: 100, 100
+  offset: 0, 2
+  index: -1
+lizi_16
+  rotate: true
+  xy: 1003, 123
+  size: 100, 84
+  orig: 100, 100
+  offset: 0, 7
+  index: -1
+lizi_18
+  rotate: true
+  xy: 639, 123
+  size: 100, 91
+  orig: 100, 100
+  offset: 0, 6
+  index: -1
+right
+  rotate: true
+  xy: 429, 29
+  size: 87, 128
+  orig: 89, 130
+  offset: 0, 2
+  index: -1
+text
+  rotate: false
+  xy: 255, 118
+  size: 269, 105
+  orig: 271, 118
+  offset: 1, 12
+  index: -1
+tou
+  rotate: true
+  xy: 526, 123
+  size: 100, 111
+  orig: 105, 114
+  offset: 3, 2
+  index: -1

@@ -1,0 +1,125 @@
+
+610013.png
+size: 397,516
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+300
+  rotate: true
+  xy: 349, 108
+  size: 91, 40
+  orig: 93, 43
+  offset: 1, 2
+  index: -1
+M1_gun
+  rotate: true
+  xy: 255, 283
+  size: 81, 127
+  orig: 91, 132
+  offset: 9, 5
+  index: -1
+Star01
+  rotate: false
+  xy: 266, 60
+  size: 52, 44
+  orig: 61, 55
+  offset: 5, 5
+  index: -1
+box
+  rotate: false
+  xy: 2, 298
+  size: 251, 216
+  orig: 253, 218
+  offset: 1, 1
+  index: -1
+h-1
+  rotate: false
+  xy: 254, 106
+  size: 93, 93
+  orig: 98, 100
+  offset: 4, 5
+  index: -1
+h-2
+  rotate: true
+  xy: 320, 52
+  size: 52, 41
+  orig: 58, 53
+  offset: 3, 11
+  index: -1
+h-3
+  rotate: false
+  xy: 266, 29
+  size: 38, 29
+  orig: 44, 40
+  offset: 2, 8
+  index: -1
+h-t
+  rotate: false
+  xy: 2, 2
+  size: 354, 15
+  orig: 357, 19
+  offset: 1, 2
+  index: -1
+m1-l
+  rotate: false
+  xy: 198, 85
+  size: 54, 96
+  orig: 54, 96
+  offset: 0, 0
+  index: -1
+m1-r
+  rotate: false
+  xy: 378, 257
+  size: 17, 24
+  orig: 19, 26
+  offset: 1, 1
+  index: -1
+m1-s
+  rotate: false
+  xy: 84, 154
+  size: 112, 142
+  orig: 113, 144
+  offset: 1, 2
+  index: -1
+m1-tou
+  rotate: false
+  xy: 84, 19
+  size: 112, 133
+  orig: 114, 135
+  offset: 1, 1
+  index: -1
+m2-l
+  rotate: true
+  xy: 198, 25
+  size: 58, 66
+  orig: 69, 66
+  offset: 11, 0
+  index: -1
+m2-r
+  rotate: false
+  xy: 198, 183
+  size: 54, 113
+  orig: 54, 113
+  offset: 0, 0
+  index: -1
+m2-s
+  rotate: true
+  xy: 254, 201
+  size: 80, 122
+  orig: 81, 122
+  offset: 1, 0
+  index: -1
+m2-t
+  rotate: false
+  xy: 255, 366
+  size: 138, 148
+  orig: 140, 150
+  offset: 1, 1
+  index: -1
+text
+  rotate: true
+  xy: 2, 30
+  size: 266, 80
+  orig: 271, 88
+  offset: 3, 1
+  index: -1

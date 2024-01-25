@@ -1,0 +1,97 @@
+
+jiazai.png
+size: 437,116
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 2
+  size: 112, 112
+  orig: 114, 114
+  offset: 1, 1
+  index: -1
+l
+  rotate: false
+  xy: 300, 58
+  size: 55, 56
+  orig: 60, 61
+  offset: 2, 2
+  index: -1
+r
+  rotate: false
+  xy: 243, 57
+  size: 55, 57
+  orig: 60, 61
+  offset: 3, 1
+  index: -1
+run
+  rotate: false
+  xy: 116, 3
+  size: 125, 111
+  orig: 128, 125
+  offset: 2, 7
+  index: -1
+vs_03
+  rotate: false
+  xy: 379, 14
+  size: 36, 42
+  orig: 100, 100
+  offset: 35, 28
+  index: -1
+vs_05
+  rotate: false
+  xy: 417, 28
+  size: 13, 42
+  orig: 100, 100
+  offset: 42, 28
+  index: -1
+vs_07
+  rotate: false
+  xy: 399, 72
+  size: 36, 42
+  orig: 100, 100
+  offset: 29, 28
+  index: -1
+vs_09
+  rotate: true
+  xy: 243, 3
+  size: 52, 42
+  orig: 100, 100
+  offset: 26, 29
+  index: -1
+vs_11
+  rotate: false
+  xy: 331, 12
+  size: 22, 44
+  orig: 100, 100
+  offset: 41, 29
+  index: -1
+vs_13
+  rotate: false
+  xy: 355, 12
+  size: 22, 44
+  orig: 100, 100
+  offset: 37, 29
+  index: -1
+vs_15
+  rotate: true
+  xy: 287, 3
+  size: 52, 42
+  orig: 100, 100
+  offset: 22, 29
+  index: -1
+vs_17
+  rotate: true
+  xy: 357, 58
+  size: 56, 40
+  orig: 100, 100
+  offset: 22, 30
+  index: -1
+vs_01
+  rotate: true
+  xy: 357, 58
+  size: 56, 40
+  orig: 100, 100
+  offset: 22, 30
+  index: -1

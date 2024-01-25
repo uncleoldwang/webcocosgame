@@ -1,0 +1,83 @@
+
+11100.png
+size: 413,908
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A
+  rotate: true
+  xy: 2, 2
+  size: 197, 200
+  orig: 204, 205
+  offset: 3, 3
+  index: -1
+A2
+  rotate: true
+  xy: 260, 506
+  size: 170, 147
+  orig: 176, 153
+  offset: 3, 3
+  index: -1
+box
+  rotate: true
+  xy: 2, 201
+  size: 218, 222
+  orig: 221, 225
+  offset: 1, 2
+  index: -1
+g-1
+  rotate: false
+  xy: 356, 790
+  size: 55, 51
+  orig: 58, 53
+  offset: 1, 1
+  index: -1
+g-2
+  rotate: false
+  xy: 356, 751
+  size: 43, 37
+  orig: 45, 39
+  offset: 1, 1
+  index: -1
+g-3
+  rotate: true
+  xy: 356, 843
+  size: 63, 52
+  orig: 65, 54
+  offset: 1, 1
+  index: -1
+h-1
+  rotate: false
+  xy: 2, 421
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+h-2
+  rotate: false
+  xy: 226, 25
+  size: 184, 184
+  orig: 186, 186
+  offset: 1, 1
+  index: -1
+h-3
+  rotate: false
+  xy: 226, 211
+  size: 166, 208
+  orig: 217, 213
+  offset: 50, 3
+  index: -1
+h-4
+  rotate: false
+  xy: 2, 679
+  size: 308, 227
+  orig: 309, 230
+  offset: 0, 1
+  index: -1
+text
+  rotate: true
+  xy: 312, 678
+  size: 228, 42
+  orig: 230, 44
+  offset: 1, 1
+  index: -1

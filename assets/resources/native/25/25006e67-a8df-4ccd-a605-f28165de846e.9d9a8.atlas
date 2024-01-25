@@ -1,0 +1,62 @@
+
+520010.png
+size: 1129,220
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+JILI
+  rotate: true
+  xy: 997, 3
+  size: 50, 44
+  orig: 52, 46
+  offset: 1, 1
+  index: -1
+box
+  rotate: false
+  xy: 2, 2
+  size: 251, 216
+  orig: 253, 218
+  offset: 1, 1
+  index: -1
+c-1
+  rotate: false
+  xy: 255, 5
+  size: 207, 213
+  orig: 211, 214
+  offset: 2, 1
+  index: -1
+c-h
+  rotate: false
+  xy: 675, 8
+  size: 205, 210
+  orig: 209, 214
+  offset: 2, 2
+  index: -1
+c-l
+  rotate: false
+  xy: 464, 8
+  size: 209, 210
+  orig: 213, 214
+  offset: 2, 2
+  index: -1
+h-1
+  rotate: false
+  xy: 882, 29
+  size: 113, 116
+  orig: 129, 118
+  offset: 9, 1
+  index: -1
+h-2
+  rotate: false
+  xy: 997, 55
+  size: 89, 90
+  orig: 102, 104
+  offset: 7, 7
+  index: -1
+text
+  rotate: false
+  xy: 882, 147
+  size: 245, 71
+  orig: 247, 73
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,76 @@
+
+610003.png
+size: 1191,245
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1500
+  rotate: false
+  xy: 808, 37
+  size: 127, 40
+  orig: 129, 44
+  offset: 1, 2
+  index: -1
+Star01
+  rotate: true
+  xy: 762, 25
+  size: 52, 44
+  orig: 61, 55
+  offset: 5, 5
+  index: -1
+box
+  rotate: false
+  xy: 509, 27
+  size: 251, 216
+  orig: 253, 218
+  offset: 1, 1
+  index: -1
+chiken
+  rotate: true
+  xy: 2, 3
+  size: 240, 289
+  orig: 259, 310
+  offset: 9, 11
+  index: -1
+glow-01
+  rotate: false
+  xy: 314, 5
+  size: 16, 16
+  orig: 18, 18
+  offset: 1, 1
+  index: -1
+glow-02
+  rotate: false
+  xy: 293, 2
+  size: 19, 19
+  orig: 21, 21
+  offset: 1, 1
+  index: -1
+h-t
+  rotate: false
+  xy: 332, 6
+  size: 354, 15
+  orig: 357, 19
+  offset: 1, 2
+  index: -1
+hight
+  rotate: false
+  xy: 762, 79
+  size: 154, 164
+  orig: 175, 166
+  offset: 20, 1
+  index: -1
+tea
+  rotate: false
+  xy: 293, 23
+  size: 214, 220
+  orig: 284, 300
+  offset: 35, 40
+  index: -1
+text
+  rotate: false
+  xy: 918, 84
+  size: 271, 159
+  orig: 279, 162
+  offset: 7, 2
+  index: -1

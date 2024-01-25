@@ -1,0 +1,83 @@
+
+520017.png
+size: 913,222
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Star01
+  rotate: false
+  xy: 717, 92
+  size: 52, 44
+  orig: 61, 55
+  offset: 5, 5
+  index: -1
+blue
+  rotate: false
+  xy: 839, 92
+  size: 62, 61
+  orig: 64, 63
+  offset: 1, 1
+  index: -1
+box
+  rotate: false
+  xy: 222, 4
+  size: 251, 216
+  orig: 253, 218
+  offset: 1, 1
+  index: -1
+h-1
+  rotate: true
+  xy: 771, 92
+  size: 44, 40
+  orig: 55, 50
+  offset: 7, 6
+  index: -1
+h-2
+  rotate: false
+  xy: 859, 43
+  size: 52, 47
+  orig: 60, 58
+  offset: 4, 4
+  index: -1
+pan
+  rotate: false
+  xy: 2, 2
+  size: 218, 218
+  orig: 220, 220
+  offset: 1, 1
+  index: -1
+purple
+  rotate: false
+  xy: 839, 155
+  size: 65, 65
+  orig: 67, 67
+  offset: 1, 1
+  index: -1
+red
+  rotate: false
+  xy: 717, 6
+  size: 81, 84
+  orig: 83, 86
+  offset: 1, 1
+  index: -1
+text
+  rotate: false
+  xy: 475, 12
+  size: 240, 208
+  orig: 243, 210
+  offset: 1, 1
+  index: -1
+xing
+  rotate: true
+  xy: 800, 29
+  size: 61, 57
+  orig: 64, 61
+  offset: 1, 2
+  index: -1
+zhizhen
+  rotate: true
+  xy: 717, 138
+  size: 82, 120
+  orig: 86, 124
+  offset: 2, 2
+  index: -1

@@ -1,0 +1,90 @@
+
+330001.png
+size: 771,221
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+12
+  rotate: false
+  xy: 493, 2
+  size: 86, 105
+  orig: 88, 107
+  offset: 1, 1
+  index: -1
+8
+  rotate: false
+  xy: 481, 109
+  size: 105, 110
+  orig: 107, 112
+  offset: 1, 1
+  index: -1
+box
+  rotate: false
+  xy: 2, 3
+  size: 251, 216
+  orig: 253, 218
+  offset: 1, 1
+  index: -1
+g-2
+  rotate: true
+  xy: 655, 15
+  size: 68, 51
+  orig: 70, 58
+  offset: 2, 7
+  index: -1
+g-3
+  rotate: false
+  xy: 686, 85
+  size: 75, 55
+  orig: 77, 57
+  offset: 1, 1
+  index: -1
+h-1
+  rotate: true
+  xy: 588, 122
+  size: 97, 96
+  orig: 135, 131
+  offset: 11, 8
+  index: -1
+logo
+  rotate: true
+  xy: 686, 142
+  size: 77, 83
+  orig: 80, 86
+  offset: 1, 1
+  index: -1
+nv
+  rotate: true
+  xy: 255, 70
+  size: 149, 224
+  orig: 153, 224
+  offset: 4, 0
+  index: -1
+nv-2
+  rotate: false
+  xy: 581, 8
+  size: 72, 99
+  orig: 72, 99
+  offset: 0, 0
+  index: -1
+nv-b
+  rotate: false
+  xy: 255, 2
+  size: 34, 6
+  orig: 36, 8
+  offset: 1, 1
+  index: -1
+star
+  rotate: false
+  xy: 708, 42
+  size: 41, 41
+  orig: 49, 49
+  offset: 4, 4
+  index: -1
+text
+  rotate: false
+  xy: 255, 10
+  size: 236, 58
+  orig: 238, 61
+  offset: 1, 2
+  index: -1

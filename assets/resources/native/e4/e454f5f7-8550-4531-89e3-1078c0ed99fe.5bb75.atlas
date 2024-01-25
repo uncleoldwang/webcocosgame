@@ -1,0 +1,48 @@
+
+300046.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+VANESSA
+  rotate: false
+  xy: 2, 717
+  size: 251, 120
+  orig: 253, 123
+  offset: 1, 2
+  index: -1
+bg
+  rotate: true
+  xy: 2, 242
+  size: 238, 446
+  orig: 240, 448
+  offset: 1, 1
+  index: -1
+bg2
+  rotate: true
+  xy: 2, 2
+  size: 238, 446
+  orig: 240, 448
+  offset: 1, 1
+  index: -1
+ere
+  rotate: false
+  xy: 2, 920
+  size: 65, 20
+  orig: 66, 21
+  offset: 1, 0
+  index: -1
+m
+  rotate: true
+  xy: 69, 839
+  size: 101, 224
+  orig: 110, 224
+  offset: 9, 0
+  index: -1
+n
+  rotate: true
+  xy: 2, 482
+  size: 233, 421
+  orig: 253, 430
+  offset: 10, 9
+  index: -1

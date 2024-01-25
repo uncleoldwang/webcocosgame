@@ -1,0 +1,76 @@
+
+live.png
+size: 274,495
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+box
+  rotate: true
+  xy: 2, 272
+  size: 221, 223
+  orig: 224, 225
+  offset: 1, 1
+  index: -1
+c-1
+  rotate: false
+  xy: 2, 119
+  size: 184, 151
+  orig: 188, 154
+  offset: 2, 2
+  index: -1
+c-2
+  rotate: false
+  xy: 2, 8
+  size: 105, 109
+  orig: 105, 109
+  offset: 0, 0
+  index: -1
+c-3
+  rotate: false
+  xy: 165, 2
+  size: 102, 97
+  orig: 107, 100
+  offset: 3, 2
+  index: -1
+g-1
+  rotate: false
+  xy: 227, 350
+  size: 43, 50
+  orig: 45, 52
+  offset: 1, 1
+  index: -1
+g-2
+  rotate: false
+  xy: 188, 101
+  size: 76, 76
+  orig: 83, 82
+  offset: 2, 5
+  index: -1
+g-3
+  rotate: false
+  xy: 227, 304
+  size: 45, 44
+  orig: 47, 46
+  offset: 1, 1
+  index: -1
+g-4
+  rotate: false
+  xy: 109, 68
+  size: 54, 49
+  orig: 57, 52
+  offset: 1, 2
+  index: -1
+h-1
+  rotate: true
+  xy: 188, 179
+  size: 91, 82
+  orig: 93, 84
+  offset: 1, 1
+  index: -1
+text
+  rotate: true
+  xy: 227, 402
+  size: 91, 43
+  orig: 93, 45
+  offset: 1, 1
+  index: -1

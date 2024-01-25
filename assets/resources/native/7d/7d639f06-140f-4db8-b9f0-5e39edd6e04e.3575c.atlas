@@ -1,0 +1,153 @@
+
+610023.png
+size: 262,1013
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+16800
+  rotate: false
+  xy: 2, 441
+  size: 127, 40
+  orig: 129, 44
+  offset: 1, 2
+  index: -1
+bi-1
+  rotate: true
+  xy: 113, 408
+  size: 31, 23
+  orig: 31, 23
+  offset: 0, 0
+  index: -1
+bi-2
+  rotate: true
+  xy: 113, 379
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+box
+  rotate: false
+  xy: 2, 795
+  size: 251, 216
+  orig: 253, 218
+  offset: 1, 1
+  index: -1
+g-1
+  rotate: false
+  xy: 2, 668
+  size: 154, 125
+  orig: 160, 133
+  offset: 3, 3
+  index: -1
+g-2
+  rotate: false
+  xy: 194, 15
+  size: 57, 49
+  orig: 59, 51
+  offset: 1, 1
+  index: -1
+h-1
+  rotate: false
+  xy: 130, 2
+  size: 62, 62
+  orig: 72, 72
+  offset: 5, 5
+  index: -1
+h-t
+  rotate: true
+  xy: 113, 22
+  size: 355, 15
+  orig: 357, 19
+  offset: 1, 2
+  index: -1
+hua-1_01
+  rotate: false
+  xy: 130, 66
+  size: 92, 89
+  orig: 125, 100
+  offset: 8, 3
+  index: -1
+hua-1_03
+  rotate: false
+  xy: 158, 612
+  size: 95, 89
+  orig: 125, 100
+  offset: 8, 3
+  index: -1
+hua-1_05
+  rotate: false
+  xy: 2, 70
+  size: 105, 90
+  orig: 125, 100
+  offset: 4, 3
+  index: -1
+hua-1_07
+  rotate: false
+  xy: 2, 348
+  size: 109, 91
+  orig: 125, 100
+  offset: 4, 3
+  index: -1
+hua-1_09
+  rotate: false
+  xy: 2, 255
+  size: 109, 91
+  orig: 125, 100
+  offset: 4, 3
+  index: -1
+hua-1_11
+  rotate: false
+  xy: 154, 519
+  size: 106, 91
+  orig: 125, 100
+  offset: 4, 3
+  index: -1
+hua-1_13
+  rotate: false
+  xy: 2, 162
+  size: 105, 91
+  orig: 125, 100
+  offset: 4, 3
+  index: -1
+hua-1_15
+  rotate: false
+  xy: 130, 157
+  size: 104, 90
+  orig: 125, 100
+  offset: 4, 3
+  index: -1
+hua-1_17
+  rotate: false
+  xy: 158, 703
+  size: 102, 90
+  orig: 125, 100
+  offset: 6, 3
+  index: -1
+lian
+  rotate: false
+  xy: 2, 483
+  size: 134, 109
+  orig: 157, 111
+  offset: 17, 1
+  index: -1
+shen
+  rotate: false
+  xy: 2, 594
+  size: 150, 72
+  orig: 170, 123
+  offset: 18, 1
+  index: -1
+text
+  rotate: true
+  xy: 138, 249
+  size: 268, 119
+  orig: 272, 122
+  offset: 2, 2
+  index: -1
+xiaba
+  rotate: false
+  xy: 2, 4
+  size: 103, 64
+  orig: 112, 66
+  offset: 1, 1
+  index: -1

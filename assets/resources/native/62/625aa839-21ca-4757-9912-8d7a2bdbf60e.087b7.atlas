@@ -1,0 +1,97 @@
+
+300040.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+EG-SLOT-A040_BG
+  rotate: false
+  xy: 2, 64
+  size: 238, 446
+  orig: 240, 448
+  offset: 1, 1
+  index: -1
+EG-SLOT-A040_DragonG
+  rotate: false
+  xy: 242, 10
+  size: 177, 200
+  orig: 179, 202
+  offset: 1, 1
+  index: -1
+EG-SLOT-A040_DragonP
+  rotate: false
+  xy: 498, 36
+  size: 139, 221
+  orig: 143, 230
+  offset: 3, 8
+  index: -1
+m1
+  rotate: false
+  xy: 242, 212
+  size: 229, 298
+  orig: 229, 298
+  offset: 0, 0
+  index: -1
+m2
+  rotate: true
+  xy: 57, 7
+  size: 55, 70
+  orig: 57, 72
+  offset: 1, 1
+  index: -1
+m3
+  rotate: false
+  xy: 421, 60
+  size: 75, 150
+  orig: 80, 152
+  offset: 1, 1
+  index: -1
+m4
+  rotate: false
+  xy: 639, 140
+  size: 91, 126
+  orig: 94, 128
+  offset: 1, 1
+  index: -1
+m5
+  rotate: false
+  xy: 704, 274
+  size: 100, 100
+  orig: 102, 102
+  offset: 1, 1
+  index: -1
+m6
+  rotate: false
+  xy: 2, 2
+  size: 53, 60
+  orig: 55, 62
+  offset: 1, 1
+  index: -1
+m7
+  rotate: false
+  xy: 725, 411
+  size: 69, 99
+  orig: 71, 101
+  offset: 1, 1
+  index: -1
+m8
+  rotate: false
+  xy: 616, 268
+  size: 86, 106
+  orig: 88, 109
+  offset: 1, 1
+  index: -1
+m9
+  rotate: false
+  xy: 616, 376
+  size: 107, 134
+  orig: 109, 136
+  offset: 1, 1
+  index: -1
+name
+  rotate: true
+  xy: 473, 259
+  size: 251, 141
+  orig: 255, 145
+  offset: 2, 2
+  index: -1

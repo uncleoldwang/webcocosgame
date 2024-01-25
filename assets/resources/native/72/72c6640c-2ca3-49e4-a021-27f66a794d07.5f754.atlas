@@ -1,0 +1,97 @@
+
+420002.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Esportes
+  rotate: false
+  xy: 2, 140
+  size: 234, 434
+  orig: 236, 436
+  offset: 1, 1
+  index: -1
+b1
+  rotate: true
+  xy: 508, 584
+  size: 40, 59
+  orig: 42, 61
+  offset: 1, 1
+  index: -1
+b2
+  rotate: false
+  xy: 508, 697
+  size: 57, 87
+  orig: 59, 90
+  offset: 1, 1
+  index: -1
+b3
+  rotate: true
+  xy: 508, 626
+  size: 69, 59
+  orig: 71, 61
+  offset: 1, 1
+  index: -1
+baa
+  rotate: true
+  xy: 433, 786
+  size: 236, 182
+  orig: 238, 192
+  offset: 1, 1
+  index: -1
+bg
+  rotate: false
+  xy: 238, 141
+  size: 234, 433
+  orig: 236, 435
+  offset: 1, 1
+  index: -1
+bg2
+  rotate: false
+  xy: 2, 576
+  size: 236, 446
+  orig: 238, 448
+  offset: 1, 1
+  index: -1
+name1
+  rotate: false
+  xy: 240, 22
+  size: 203, 117
+  orig: 207, 119
+  offset: 2, 1
+  index: -1
+name2
+  rotate: false
+  xy: 445, 22
+  size: 193, 117
+  orig: 195, 119
+  offset: 1, 1
+  index: -1
+p
+  rotate: false
+  xy: 240, 611
+  size: 191, 411
+  orig: 191, 411
+  offset: 0, 0
+  index: -1
+qqq
+  rotate: true
+  xy: 474, 431
+  size: 143, 105
+  orig: 145, 107
+  offset: 1, 1
+  index: -1
+qqqqq
+  rotate: true
+  xy: 433, 576
+  size: 208, 73
+  orig: 210, 75
+  offset: 1, 1
+  index: -1
+sfsd
+  rotate: false
+  xy: 2, 2
+  size: 236, 136
+  orig: 238, 141
+  offset: 1, 1
+  index: -1

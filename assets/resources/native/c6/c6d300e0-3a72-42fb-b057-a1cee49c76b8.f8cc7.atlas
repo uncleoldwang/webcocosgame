@@ -1,0 +1,55 @@
+
+300049.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 482, 237
+  size: 240, 243
+  orig: 240, 243
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 724, 289
+  size: 85, 191
+  orig: 87, 194
+  offset: 1, 1
+  index: -1
+3
+  rotate: false
+  xy: 613, 7
+  size: 84, 228
+  orig: 84, 228
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 699, 8
+  size: 140, 227
+  orig: 140, 227
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 2, 34
+  size: 238, 446
+  orig: 240, 448
+  offset: 1, 1
+  index: -1
+bg3
+  rotate: false
+  xy: 242, 34
+  size: 238, 446
+  orig: 238, 446
+  offset: 0, 0
+  index: -1
+na
+  rotate: true
+  xy: 482, 2
+  size: 233, 129
+  orig: 236, 131
+  offset: 1, 1
+  index: -1

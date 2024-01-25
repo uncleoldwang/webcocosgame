@@ -1,0 +1,90 @@
+
+610014.png
+size: 960,238
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1680
+  rotate: false
+  xy: 500, 37
+  size: 108, 40
+  orig: 110, 42
+  offset: 1, 1
+  index: -1
+Star01
+  rotate: false
+  xy: 762, 2
+  size: 52, 44
+  orig: 61, 55
+  offset: 5, 5
+  index: -1
+bao-1
+  rotate: true
+  xy: 766, 48
+  size: 188, 192
+  orig: 195, 200
+  offset: 4, 2
+  index: -1
+box
+  rotate: false
+  xy: 247, 20
+  size: 251, 216
+  orig: 253, 218
+  offset: 1, 1
+  index: -1
+g-1
+  rotate: true
+  xy: 690, 14
+  size: 63, 70
+  orig: 66, 72
+  offset: 2, 1
+  index: -1
+g-2
+  rotate: false
+  xy: 610, 15
+  size: 78, 62
+  orig: 88, 74
+  offset: 8, 1
+  index: -1
+g-3
+  rotate: true
+  xy: 873, 11
+  size: 35, 37
+  orig: 38, 39
+  offset: 1, 1
+  index: -1
+g-4
+  rotate: false
+  xy: 912, 21
+  size: 36, 25
+  orig: 39, 27
+  offset: 2, 1
+  index: -1
+g-5
+  rotate: false
+  xy: 816, 21
+  size: 55, 25
+  orig: 61, 30
+  offset: 0, 1
+  index: -1
+h-t
+  rotate: false
+  xy: 247, 3
+  size: 354, 15
+  orig: 357, 19
+  offset: 1, 2
+  index: -1
+hight
+  rotate: false
+  xy: 2, 2
+  size: 243, 234
+  orig: 261, 246
+  offset: 6, 10
+  index: -1
+text
+  rotate: false
+  xy: 500, 79
+  size: 264, 157
+  orig: 266, 159
+  offset: 1, 1
+  index: -1

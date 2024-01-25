@@ -1,0 +1,48 @@
+
+300038.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 242, 2
+  size: 76, 242
+  orig: 79, 245
+  offset: 1, 2
+  index: -1
+2
+  rotate: false
+  xy: 486, 60
+  size: 64, 67
+  orig: 66, 69
+  offset: 1, 1
+  index: -1
+3
+  rotate: true
+  xy: 458, 129
+  size: 96, 82
+  orig: 98, 84
+  offset: 1, 1
+  index: -1
+H1_Maximus
+  rotate: false
+  xy: 242, 80
+  size: 214, 402
+  orig: 217, 404
+  offset: 1, 1
+  index: -1
+bg
+  rotate: false
+  xy: 2, 36
+  size: 238, 446
+  orig: 240, 448
+  offset: 1, 1
+  index: -1
+name
+  rotate: true
+  xy: 458, 227
+  size: 255, 129
+  orig: 258, 132
+  offset: 1, 2
+  index: -1

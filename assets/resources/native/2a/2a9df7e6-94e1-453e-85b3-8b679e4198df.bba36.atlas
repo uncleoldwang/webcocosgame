@@ -1,0 +1,90 @@
+
+520013.png
+size: 396,675
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Star01
+  rotate: false
+  xy: 128, 44
+  size: 52, 44
+  orig: 61, 55
+  offset: 5, 5
+  index: -1
+bi
+  rotate: false
+  xy: 203, 231
+  size: 50, 17
+  orig: 52, 19
+  offset: 1, 1
+  index: -1
+box
+  rotate: false
+  xy: 2, 250
+  size: 251, 216
+  orig: 253, 218
+  offset: 1, 1
+  index: -1
+er-r
+  rotate: false
+  xy: 245, 213
+  size: 8, 16
+  orig: 10, 18
+  offset: 1, 1
+  index: -1
+fa-1
+  rotate: true
+  xy: 2, 2
+  size: 86, 124
+  orig: 86, 124
+  offset: 0, 0
+  index: -1
+fa-2
+  rotate: false
+  xy: 258, 488
+  size: 135, 185
+  orig: 135, 185
+  offset: 0, 0
+  index: -1
+fa-a
+  rotate: false
+  xy: 255, 182
+  size: 139, 118
+  orig: 144, 120
+  offset: 1, 1
+  index: -1
+g-1
+  rotate: false
+  xy: 203, 188
+  size: 40, 41
+  orig: 43, 43
+  offset: 1, 1
+  index: -1
+shen
+  rotate: true
+  xy: 258, 302
+  size: 184, 133
+  orig: 184, 133
+  offset: 0, 0
+  index: -1
+shou
+  rotate: false
+  xy: 2, 90
+  size: 199, 158
+  orig: 199, 161
+  offset: 0, 0
+  index: -1
+text
+  rotate: false
+  xy: 2, 468
+  size: 254, 205
+  orig: 256, 207
+  offset: 1, 1
+  index: -1
+tou
+  rotate: true
+  xy: 203, 29
+  size: 151, 186
+  orig: 151, 190
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+420092.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 89
+  size: 238, 446
+  orig: 240, 448
+  offset: 1, 1
+  index: -1
+m1
+  rotate: false
+  xy: 242, 243
+  size: 199, 292
+  orig: 201, 297
+  offset: 1, 4
+  index: -1
+m2
+  rotate: false
+  xy: 443, 410
+  size: 67, 59
+  orig: 67, 59
+  offset: 0, 0
+  index: -1
+m3
+  rotate: false
+  xy: 443, 471
+  size: 62, 64
+  orig: 62, 64
+  offset: 0, 0
+  index: -1
+m4
+  rotate: false
+  xy: 242, 5
+  size: 196, 236
+  orig: 198, 239
+  offset: 1, 1
+  index: -1
+mr.miser
+  rotate: false
+  xy: 2, 2
+  size: 235, 85
+  orig: 237, 87
+  offset: 1, 1
+  index: -1

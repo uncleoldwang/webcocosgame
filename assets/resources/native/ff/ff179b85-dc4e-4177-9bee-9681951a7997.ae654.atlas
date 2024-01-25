@@ -1,0 +1,139 @@
+
+slots.png
+size: 226,856
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+7-1
+  rotate: false
+  xy: 172, 23
+  size: 50, 66
+  orig: 52, 68
+  offset: 1, 1
+  index: -1
+7-2
+  rotate: true
+  xy: 2, 72
+  size: 75, 86
+  orig: 77, 88
+  offset: 1, 1
+  index: -1
+7-2-1
+  rotate: false
+  xy: 91, 149
+  size: 40, 36
+  orig: 43, 37
+  offset: 0, 1
+  index: -1
+7-2-2
+  rotate: false
+  xy: 159, 243
+  size: 65, 66
+  orig: 67, 70
+  offset: 0, 4
+  index: -1
+7-2-3
+  rotate: true
+  xy: 90, 5
+  size: 68, 77
+  orig: 72, 80
+  offset: 3, 2
+  index: -1
+7-2-4
+  rotate: true
+  xy: 90, 75
+  size: 69, 80
+  orig: 69, 82
+  offset: 0, 1
+  index: -1
+7-2-5
+  rotate: true
+  xy: 2, 2
+  size: 68, 72
+  orig: 69, 75
+  offset: 0, 0
+  index: -1
+7-3
+  rotate: false
+  xy: 160, 495
+  size: 61, 74
+  orig: 63, 76
+  offset: 1, 1
+  index: -1
+box
+  rotate: false
+  xy: 2, 633
+  size: 221, 221
+  orig: 223, 221
+  offset: 1, 0
+  index: -1
+g-0
+  rotate: true
+  xy: 172, 91
+  size: 53, 51
+  orig: 56, 53
+  offset: 1, 1
+  index: -1
+g-3
+  rotate: false
+  xy: 160, 571
+  size: 63, 60
+  orig: 65, 63
+  offset: 1, 2
+  index: -1
+g-4
+  rotate: true
+  xy: 160, 423
+  size: 70, 60
+  orig: 72, 64
+  offset: 1, 2
+  index: -1
+g-5
+  rotate: true
+  xy: 139, 146
+  size: 95, 80
+  orig: 97, 83
+  offset: 1, 2
+  index: -1
+g-6
+  rotate: true
+  xy: 2, 149
+  size: 77, 87
+  orig: 81, 90
+  offset: 2, 1
+  index: -1
+h-1
+  rotate: true
+  xy: 2, 274
+  size: 127, 155
+  orig: 150, 176
+  offset: 15, 10
+  index: -1
+h-2
+  rotate: true
+  xy: 91, 187
+  size: 39, 40
+  orig: 45, 46
+  offset: 3, 3
+  index: -1
+s-g
+  rotate: false
+  xy: 160, 311
+  size: 55, 110
+  orig: 55, 110
+  offset: 0, 0
+  index: -1
+slot
+  rotate: true
+  xy: 2, 403
+  size: 228, 156
+  orig: 246, 163
+  offset: 2, 6
+  index: -1
+text
+  rotate: false
+  xy: 2, 228
+  size: 135, 44
+  orig: 135, 44
+  offset: 0, 0
+  index: -1

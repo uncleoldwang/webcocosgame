@@ -1,0 +1,90 @@
+
+430004.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LUCKYFISHING
+  rotate: false
+  xy: 673, 312
+  size: 222, 136
+  orig: 226, 140
+  offset: 2, 2
+  index: -1
+bg
+  rotate: false
+  xy: 242, 14
+  size: 234, 434
+  orig: 236, 436
+  offset: 1, 1
+  index: -1
+bg2
+  rotate: false
+  xy: 2, 2
+  size: 238, 446
+  orig: 240, 448
+  offset: 1, 1
+  index: -1
+f1
+  rotate: false
+  xy: 897, 312
+  size: 39, 34
+  orig: 41, 36
+  offset: 1, 1
+  index: -1
+f2
+  rotate: false
+  xy: 825, 246
+  size: 121, 64
+  orig: 123, 66
+  offset: 1, 1
+  index: -1
+f3
+  rotate: false
+  xy: 781, 80
+  size: 69, 63
+  orig: 71, 65
+  offset: 1, 1
+  index: -1
+f4
+  rotate: false
+  xy: 478, 151
+  size: 193, 297
+  orig: 195, 305
+  offset: 1, 7
+  index: -1
+f5
+  rotate: false
+  xy: 641, 22
+  size: 138, 121
+  orig: 140, 123
+  offset: 1, 1
+  index: -1
+f6
+  rotate: false
+  xy: 825, 182
+  size: 84, 62
+  orig: 86, 64
+  offset: 1, 1
+  index: -1
+j1
+  rotate: false
+  xy: 673, 145
+  size: 150, 165
+  orig: 152, 171
+  offset: 1, 4
+  index: -1
+j2
+  rotate: false
+  xy: 478, 29
+  size: 161, 120
+  orig: 166, 124
+  offset: 3, 2
+  index: -1
+j3
+  rotate: false
+  xy: 897, 348
+  size: 95, 100
+  orig: 98, 103
+  offset: 2, 2
+  index: -1

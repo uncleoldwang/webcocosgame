@@ -1,0 +1,174 @@
+
+610026.png
+size: 1235,237
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1000
+  rotate: false
+  xy: 1025, 5
+  size: 108, 40
+  orig: 110, 42
+  offset: 1, 1
+  index: -1
+bi
+  rotate: true
+  xy: 867, 19
+  size: 86, 39
+  orig: 90, 43
+  offset: 2, 2
+  index: -1
+box
+  rotate: false
+  xy: 429, 19
+  size: 251, 216
+  orig: 253, 218
+  offset: 1, 1
+  index: -1
+chi-r
+  rotate: true
+  xy: 724, 26
+  size: 76, 86
+  orig: 77, 87
+  offset: 0, 1
+  index: -1
+eye free
+  rotate: false
+  xy: 1167, 3
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+g-1
+  rotate: true
+  xy: 1167, 26
+  size: 36, 31
+  orig: 41, 36
+  offset: 3, 3
+  index: -1
+g-2
+  rotate: true
+  xy: 1200, 2
+  size: 25, 23
+  orig: 30, 26
+  offset: 2, 1
+  index: -1
+g-3
+  rotate: false
+  xy: 785, 2
+  size: 28, 22
+  orig: 32, 26
+  offset: 2, 2
+  index: -1
+g-4
+  rotate: false
+  xy: 1200, 29
+  size: 33, 33
+  orig: 38, 36
+  offset: 2, 1
+  index: -1
+h-t
+  rotate: false
+  xy: 429, 2
+  size: 354, 15
+  orig: 357, 19
+  offset: 1, 2
+  index: -1
+huan
+  rotate: false
+  xy: 2, 2
+  size: 233, 233
+  orig: 237, 237
+  offset: 2, 2
+  index: -1
+huo_01
+  rotate: true
+  xy: 1135, 10
+  size: 52, 30
+  orig: 150, 84
+  offset: 49, 30
+  index: -1
+huo_03
+  rotate: true
+  xy: 682, 23
+  size: 79, 40
+  orig: 150, 84
+  offset: 33, 25
+  index: -1
+huo_05
+  rotate: true
+  xy: 815, 4
+  size: 101, 50
+  orig: 150, 84
+  offset: 20, 22
+  index: -1
+huo_07
+  rotate: true
+  xy: 1168, 129
+  size: 106, 52
+  orig: 150, 84
+  offset: 18, 21
+  index: -1
+huo_09
+  rotate: false
+  xy: 1091, 64
+  size: 110, 56
+  orig: 150, 84
+  offset: 16, 20
+  index: -1
+huo_11
+  rotate: true
+  xy: 1058, 122
+  size: 113, 58
+  orig: 150, 84
+  offset: 14, 19
+  index: -1
+huo_13
+  rotate: false
+  xy: 975, 47
+  size: 114, 58
+  orig: 150, 84
+  offset: 13, 19
+  index: -1
+huo_15
+  rotate: true
+  xy: 1118, 127
+  size: 108, 48
+  orig: 150, 84
+  offset: 16, 24
+  index: -1
+right
+  rotate: false
+  xy: 975, 4
+  size: 48, 41
+  orig: 48, 61
+  offset: 0, 20
+  index: -1
+shen
+  rotate: true
+  xy: 908, 20
+  size: 85, 65
+  orig: 85, 65
+  offset: 0, 0
+  index: -1
+text
+  rotate: false
+  xy: 783, 107
+  size: 273, 128
+  orig: 276, 131
+  offset: 1, 2
+  index: -1
+tou
+  rotate: false
+  xy: 682, 104
+  size: 99, 131
+  orig: 100, 131
+  offset: 0, 0
+  index: -1
+xi
+  rotate: true
+  xy: 237, 10
+  size: 225, 190
+  orig: 236, 195
+  offset: 8, 3
+  index: -1

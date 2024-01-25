@@ -1,0 +1,104 @@
+
+610001.png
+size: 531,520
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+88
+  rotate: false
+  xy: 50, 198
+  size: 72, 40
+  orig: 74, 42
+  offset: 1, 1
+  index: -1
+Star01
+  rotate: true
+  xy: 2, 184
+  size: 54, 46
+  orig: 61, 55
+  offset: 4, 4
+  index: -1
+box
+  rotate: false
+  xy: 278, 302
+  size: 251, 216
+  orig: 253, 218
+  offset: 1, 1
+  index: -1
+coin-0
+  rotate: true
+  xy: 216, 169
+  size: 69, 59
+  orig: 71, 62
+  offset: 1, 2
+  index: -1
+coin-1
+  rotate: false
+  xy: 328, 10
+  size: 122, 32
+  orig: 124, 35
+  offset: 1, 2
+  index: -1
+coin-2
+  rotate: true
+  xy: 165, 181
+  size: 57, 41
+  orig: 61, 43
+  offset: 2, 1
+  index: -1
+coin-3
+  rotate: true
+  xy: 460, 43
+  size: 77, 64
+  orig: 79, 68
+  offset: 1, 2
+  index: -1
+coin-4
+  rotate: true
+  xy: 460, 122
+  size: 59, 66
+  orig: 61, 68
+  offset: 1, 1
+  index: -1
+h-t
+  rotate: false
+  xy: 2, 2
+  size: 212, 15
+  orig: 214, 19
+  offset: 1, 2
+  index: -1
+light
+  rotate: true
+  xy: 2, 240
+  size: 278, 274
+  orig: 293, 293
+  offset: 1, 12
+  index: -1
+panther
+  rotate: true
+  xy: 2, 19
+  size: 162, 161
+  orig: 167, 164
+  offset: 2, 0
+  index: -1
+text
+  rotate: false
+  xy: 278, 183
+  size: 241, 117
+  orig: 243, 120
+  offset: 1, 1
+  index: -1
+tree-1
+  rotate: true
+  xy: 165, 20
+  size: 147, 161
+  orig: 148, 162
+  offset: 1, 1
+  index: -1
+tree-2
+  rotate: true
+  xy: 328, 44
+  size: 137, 130
+  orig: 137, 131
+  offset: 0, 1
+  index: -1
